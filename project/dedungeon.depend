@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1325971894 source:/home/vantreeseba/Code/dedungeon/source/generators/MazeGenerator.cpp
+	"generators/MazeGenerator.hpp"
+
+1325970246 /home/vantreeseba/Code/dedungeon/include/generators/MazeGenerator.hpp
+	"IDungeonGenerator.hpp"
+
+1325970074 /home/vantreeseba/Code/dedungeon/include/generators/IDungeonGenerator.hpp
+	"../Dungeon.hpp"
+
+1325971765 /home/vantreeseba/Code/dedungeon/include/Dungeon.hpp
+	<vector>
+
